@@ -1,3 +1,3 @@
 <p align = "center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp6dDFoMWo4NHR0cTQ0ZzhrMzNkNTduMGt4Y2cwY3QyeXh2c2w4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ik8dI96ZFdxe7uViwW/giphy.gif" height="100%" width="100%"/>
+<img src="https://i.pinimg.com/originals/41/08/5f/41085f16168203bb99ad0963bde537b3.gif" height="100%" width="100%"/>
 </p>
