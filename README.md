@@ -4,6 +4,6 @@
 
 
 <p align = "center">
-<img src="https://i.pinimg.com/736x/05/09/c0/0509c0d8ed4ca794fc97ade9c7dcd208.jpg" height="100%" width="100%"/>
+<img src="https://i.pinimg.com/736x/c1/82/63/c182634831c05f2f42b604700847d453.jpg" height="90%" width="90%"/>
 </p>
 
